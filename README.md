@@ -1,4 +1,6 @@
-### Hi there 👋
+### Heyo, I'm Simon 👋
+
+I'm studying Computer Science at the University of Waterloo. I’m always looking for new avenues to learn and grow, so feel free to shoot me a message!
 
 <!--
 **smchase/smchase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
