@@ -3,6 +3,7 @@
 I'm studying Computer Science at the University of Waterloo. I’m always looking for new avenues to learn and grow, so feel free to shoot me a message!
 
 Current mission: Develop an improved app for the [Moonboard](https://moonboard.com/) 🌝 (a light-up climbing wall)
+Check this out: I wrote a bit about the fastest way to solve a Sudoku problem [here](https://github.com/smchase/Sudoku-Solver)
 
 <!--
 **smchase/smchase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
