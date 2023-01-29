@@ -4,4 +4,4 @@ I'm studying Computer Science at the University of Waterloo. I’m always lookin
 
 **Current mission**: I'm working on an [improved app](https://github.com/smchase/Moonboard-Guidebook) for the Moonboard 🌝 (a light-up climbing wall)
 
-**Check this out**: I did a [write-up](https://github.com/smchase/Sudoku-Solver) on how I created a program to solve Sudokus really quickly 🚀
+**Check this out**: I did a [write-up](https://github.com/smchase/Sudoku-Solver/blob/main/README.md#how-it-works) on how I created a program to solve Sudokus really quickly 🚀
